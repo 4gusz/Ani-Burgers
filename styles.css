@@ -67,7 +67,7 @@ a {
 .hero-contain {
     background-image:
         linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
-        url(imagenes/pexels-natan-machado-fotografia-gastronomica-162809799-15010298.jpg);
+        url(imagenes/herosection.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
